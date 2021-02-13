@@ -1,5 +1,4 @@
-# 'scrapy' is not recognized as an internal or external command, 
-  operable program or batch file.
+# 'scrapy' is not recognized as an internal or external command, operable program or batch file.
 
 To solve this problem, you can go to the location where python was installed. 
 Look for a folder called Scripts. In that folder, you must create a file called 
@@ -10,4 +9,4 @@ Look for a folder called Scripts. In that folder, you must create a file called
 python -mscrapy.cmdline %*
 ```
 ## Reference
-@pablohoffman (https://github.com/scrapy/scrapy/blob/a8f45dc6dd4fbc371ff6fd4e90d7e086319ad0c8/extras/scrapy.bat)
+(@pablohoffman) (https://github.com/scrapy/scrapy/blob/a8f45dc6dd4fbc371ff6fd4e90d7e086319ad0c8/extras/scrapy.bat)
