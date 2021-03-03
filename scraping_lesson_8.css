@@ -1,0 +1,23 @@
+/* 
+	@Author: Samadhi
+	@Date: 2021-03-02
+*/
+
+p {
+	color: blue;
+	font-size: 28px;
+	text-align: center;
+}
+#container{	
+	background-color: yellow;
+	text-align: center;
+}
+
+.box{
+	background-color: green;
+	border: 1px red solid;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 20px;	
+}
