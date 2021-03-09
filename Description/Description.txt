@@ -1,0 +1,48 @@
+Text 1
+Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U
+$364.99
+--------------------------------------------------------------------------------------
+Text 2
+HP 15-dy1036nr 10th Gen Intel Core i5-1035G1, 15.6-Inch FHD Laptop, Natural Silver
+$666.00
+--------------------------------------------------------------------------------------
+Text 3
+ASUS L203MA-DS04 VivoBook L203MA Laptop, 11.6” HD Display, Intel Celeron Dual Core
+$238.00
+--------------------------------------------------------------------------------------
+Text 4
+Jumper Laptop 13.3 inch 8GB RAM 128GB ROM Quad Core Celeron, Windows 10
+$299.99
+--------------------------------------------------------------------------------------
+Text 5
+HP Stream 11.6-inch HD Laptop, Intel Celeron N4000, 4 GB RAM, 32 GB eMMC, Windows 10
+$250.00
+--------------------------------------------------------------------------------------
+Text 6
+Used Like New Notebook Chromebook 11 CB1C13 11.6in Laptop Intel Celeron
+$169.89
+--------------------------------------------------------------------------------------
+Text 7
+2020 HP 15.6" Touchscreen Laptop Computer/ 10th Gen Intel Quard-Core i5
+$604.90
+--------------------------------------------------------------------------------------
+Text 8
+Win10/Office 2010 Only 0.8KG 10.1 inch Ultra-Thin Laptop AtomX5 Z8350
+$199.99
+--------------------------------------------------------------------------------------
+Text 9
+HP Stream 14-Inch Laptop, Intel Celeron N4000, 4 GB RAM, 64 GB eMMC, Windows 10
+$322.00
+--------------------------------------------------------------------------------------
+Text 10
+Lenovo IdeaPad 14-inch HD WLED AMD A6-9229e 4GB 64GB eMMC Win 10
+$259.00
+--------------------------------------------------------------------------------------
+Text 11
+CHUWI HeroBook Pro 14.1 inch Windows 10 Laptop Computer, 8G RAM / 256GB SSD
+$349.00
+--------------------------------------------------------------------------------------
+Text 12
+2020 HP 17.3" Laptop Computer/ 8th Gen Intel Quad-Core i5-8265U Up to 3.9GHz
+$899.00
+--------------------------------------------------------------------------------------
