@@ -24,3 +24,11 @@
 - JavaScript Programming
 - Variables
 
+# Note:
+Each folder will have the .html files to download. 
+The .md files will contain the instruction for the lessons. 
+In each folder you will have more than one version of the same program.
+
+# Start now 
+- 1- What is HTML (https://github.com/byte4u/HTML-For-Scraping/tree/main/1-What-is-HTML)
+- 2- Element ()
