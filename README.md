@@ -7,7 +7,7 @@
   
 ## What will you learn
 - What is HTML?
-- Element
+- Element 
 - Attribute
 - Indentation
 - DIV
