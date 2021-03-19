@@ -35,3 +35,4 @@ In each folder you will have more than one version of the same program.
 - 3- Attribute (https://github.com/byte4u/HTML-For-Scraping/tree/main/3-Attribute)
 - 4- Indentation (https://github.com/byte4u/HTML-For-Scraping/tree/main/4-Indentation)
 - 5- Div (https://github.com/byte4u/HTML-For-Scraping/tree/main/5-Div)
+- 6- CSS (https://github.com/byte4u/HTML-For-Scraping/tree/main/6-CSS)
